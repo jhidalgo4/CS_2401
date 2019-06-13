@@ -1,2 +1,2 @@
-# CS_2401
-Elementary data structures - CS 2402
+# UTEP CS 2401
+Elementary data structures lab - CS 2401
